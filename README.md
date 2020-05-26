@@ -10,7 +10,7 @@ npm start
 3. Open your web browser and navigate to http://localhost:3000
 
 ## Building the emscripten
-Please read public/pdtest/README.md
+Please read https://github.com/cuinjune/pd-emscripten-test/blob/master/public/pdtest/README.md
 
 ## References
 https://openframeworks.cc/setup/emscripten/
