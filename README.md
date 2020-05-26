@@ -13,8 +13,8 @@ npm start
 Please read https://github.com/cuinjune/pd-emscripten-test/blob/master/public/pdtest/README.md
 
 ## References
-https://openframeworks.cc/setup/emscripten/
-https://mathr.co.uk/empd/
+* https://openframeworks.cc/setup/emscripten/
+* https://mathr.co.uk/empd/
 
 ## Author
 * [Zack Lee](https://www.cuinjune.com/about): an MPS Candidate at [NYU ITP](https://itp.nyu.edu).
