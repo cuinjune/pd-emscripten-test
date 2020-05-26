@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# output files
+pdtest.html
+pdtest.js
+pdtest.data
+pdtest.wasm
