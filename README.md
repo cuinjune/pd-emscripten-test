@@ -17,4 +17,4 @@ Please read https://github.com/cuinjune/pd-emscripten-test/blob/master/public/pd
 * https://mathr.co.uk/empd/
 
 ## Author
-* [Zack Lee](https://www.cuinjune.com/about): an MPS Candidate at [NYU ITP](https://itp.nyu.edu).
+* [Zack Lee](https://www.cuinjune.com/about): MPS Candidate at [NYU ITP](https://itp.nyu.edu).
